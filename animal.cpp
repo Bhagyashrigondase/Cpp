@@ -108,7 +108,9 @@ int main()
 
     bird b1("sparrow","brown",2,"nest");
     b1.display();
-    
+
+    bird b2("Peacock","Green",2,"Open Forest");
+    b2.display();
 
     return 0;
 
